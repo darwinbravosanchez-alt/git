@@ -17,8 +17,6 @@
 		this.sueldo = sueldo;
 	}
 
-
-	
 	//toString
 	@Override
 	public String toString() {
