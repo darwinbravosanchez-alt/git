@@ -5,7 +5,7 @@ public class Empleado {
 	private String nom_emp;
 	private double sueldo;
 
-// DARWIN ESTUVO AQUI
+// EYDER ESTUVO AQUI
 	public Empleado() {
 	}
 	
