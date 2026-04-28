@@ -10,6 +10,11 @@
 
 	public void setSueldo(double sueldo) {
 		this.sueldo = sueldo;
+		this.sueldo = sueldo;
+		this.sueldo = sueldo;
+		this.sueldo = sueldo;
+		this.sueldo = sueldo;
+		this.sueldo = sueldo;
 	}
 
 	//toString
