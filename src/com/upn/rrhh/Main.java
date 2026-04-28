@@ -42,7 +42,6 @@ public class Main {
 		System.out.println("----------------------------");
 		int cont = 1;
 		for(Empleado x : lista) {
-			//System.out.println(x.toString());
 			System.out.println("Persona "+cont);
 			System.out.println("* Codigo: "+x.getCod_emp());
 			System.out.println("* Nombre: "+x.getNom_emp()  );
