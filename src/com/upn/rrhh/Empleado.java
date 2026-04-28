@@ -5,7 +5,7 @@ public class Empleado {
 	private String nom_emp;
 	private double sueldo;
 
-// TENGO SUEÑO - LUCHO
+// LUFFY REY DED LOS PIRATAS - MAIN
 	public Empleado() {
 	}
 	
@@ -20,6 +20,7 @@ public class Empleado {
 	}
 
 // TENGO HAMBRE - LUCHO
+// GOD USOPP - MAIN
 
 	public void setCod_emp(String cod_emp) {
 		this.cod_emp = cod_emp;
