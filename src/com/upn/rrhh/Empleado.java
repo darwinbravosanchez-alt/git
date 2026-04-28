@@ -5,7 +5,7 @@ public class Empleado {
 	private String nom_emp;
 	private double sueldo;
 
-// LUCHO ESTUVO AQUI
+// DARWIN ESTUVO AQUI
 	public Empleado() {
 	}
 	
@@ -39,8 +39,6 @@ public class Empleado {
 		this.sueldo = sueldo;
 	}
 
-
-	
 	//toString
 	@Override
 	public String toString() {
