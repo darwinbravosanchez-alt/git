@@ -19,6 +19,8 @@ public class Empleado {
 		return cod_emp;
 	}
 
+// LUCHO TAMBIEN ESTUVO AQUI
+
 	public void setCod_emp(String cod_emp) {
 		this.cod_emp = cod_emp;
 	}
