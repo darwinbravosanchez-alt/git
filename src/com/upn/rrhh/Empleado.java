@@ -5,18 +5,15 @@ public class Empleado {
 	private String nom_emp;
 	private double sueldo;
 
-	//constructor vacio
 	public Empleado() {
 	}
 	
-	//constructor parametros
 	public Empleado(String cod_emp, String nom_emp, double sueldo) {
 		this.cod_emp = cod_emp;
 		this.nom_emp = nom_emp;
 		this.sueldo = sueldo;
 	}
 	
-	//get/set
 	public String getCod_emp() {
 		return cod_emp;
 	}
