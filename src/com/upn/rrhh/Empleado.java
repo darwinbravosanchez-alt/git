@@ -19,6 +19,7 @@ public class Empleado {
 		return cod_emp;
 	}
 
+// TENGO HAMBRE - LUCHO
 // GOD USOPP - MAIN
 
 	public void setCod_emp(String cod_emp) {
